@@ -2,4 +2,4 @@
 
 This Repo contains POC of Power BI dashboard work and development.
 This includes pdf file for presentation of the dashboard contents.
-Clustering graph added in the dashboard as a unique feature in Power-BI
+Clustering graph added in the dashboard as a unique feature in Power-BI which can cluster the result into desired section.
